@@ -1,0 +1,233 @@
+00:04.324	ID:2	Parent bracelet ready, pairing phase started
+00:04.436	ID:4	Parent bracelet ready, pairing phase started
+00:04.470	ID:1	Child bracelet ready, pairing phase started
+00:04.572	ID:2	Radio: sending pairing packet, key=BFBD2d3VsBNIsfJO68dI
+00:04.578	ID:2	Packet sent
+00:04.581	ID:1	Message received from node 2 with type = 1
+00:04.584	ID:1	Message for pairing phase 0 received. Address: 2
+00:04.588	ID:1	Radio: sanding pairing confirmation to node 2
+00:04.594	ID:1	Packet sent
+00:04.595	ID:1	Pairing ack received
+00:04.596	ID:2	Message received from node 1 with type = 4
+00:04.597	ID:1	Pairing phase 1 completed for node: 2
+00:04.598	ID:2	Message for pairing phase 1 received
+00:04.684	ID:4	Radio: sending pairing packet, key=xr3gBthvdhvFhvB6iHUH
+00:04.691	ID:4	Packet sent
+00:04.718	ID:1	Radio: sending pairing packet, key=BFBD2d3VsBNIsfJO68dI
+00:04.723	ID:1	Packet sent
+00:04.724	ID:1	INFO ack received
+00:04.725	ID:2	Message received from node 1 with type = 1
+00:04.727	ID:2	Message for pairing phase 0 received. Address: 1
+00:04.732	ID:2	Radio: sanding pairing confirmation to node 1
+00:04.734	ID:2	Packet sent
+00:04.735	ID:2	Pairing ack received
+00:04.736	ID:1	Message received from node 2 with type = 4
+00:04.736	ID:2	Pairing phase 1 completed for node: 1
+00:04.737	ID:1	Message for pairing phase 1 received
+00:04.928	ID:4	Radio: sending pairing packet, key=xr3gBthvdhvFhvB6iHUH
+00:04.938	ID:4	Packet sent
+00:04.987	ID:3	Child bracelet ready, pairing phase started
+00:05.172	ID:4	Radio: sending pairing packet, key=xr3gBthvdhvFhvB6iHUH
+00:05.177	ID:4	Packet sent
+00:05.180	ID:3	Message received from node 4 with type = 1
+00:05.183	ID:3	Message for pairing phase 0 received. Address: 4
+00:05.187	ID:3	Radio: sanding pairing confirmation to node 4
+00:05.193	ID:3	Packet sent
+00:05.194	ID:3	Pairing ack received
+00:05.195	ID:4	Message received from node 3 with type = 4
+00:05.196	ID:3	Pairing phase 1 completed for node: 4
+00:05.197	ID:4	Message for pairing phase 1 received
+00:05.235	ID:3	Radio: sending pairing packet, key=xr3gBthvdhvFhvB6iHUH
+00:05.244	ID:3	Packet sent
+00:05.244	ID:3	INFO ack received
+00:05.245	ID:4	Message received from node 3 with type = 1
+00:05.248	ID:4	Message for pairing phase 0 received. Address: 3
+00:05.252	ID:4	Radio: sanding pairing confirmation to node 3
+00:05.256	ID:4	Packet sent
+00:05.257	ID:4	Pairing ack received
+00:05.258	ID:3	Message received from node 4 with type = 4
+00:05.259	ID:4	Pairing phase 1 completed for node: 3
+00:05.259	ID:3	Message for pairing phase 1 received
+00:14.363	ID:1	Timer10s: timer fired
+00:14.367	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+00:14.378	ID:1	Packet sent
+00:14.379	ID:1	INFO ack received
+00:14.380	ID:2	Message received from node 1 with type = 2
+00:14.381	ID:2	INFO message received
+00:14.383	ID:2	Position X: 22963, Y: 6228
+00:14.384	ID:2	Sensor status: 1
+00:14.962	ID:3	Timer10s: timer fired
+00:14.966	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+00:14.973	ID:3	Packet sent
+00:14.974	ID:3	INFO ack received
+00:14.975	ID:4	Message received from node 3 with type = 2
+00:14.976	ID:4	INFO message received
+00:14.978	ID:4	Position X: -19609, Y: 12457
+00:14.979	ID:4	Sensor status: 1
+00:24.128	ID:1	Timer10s: timer fired
+00:24.133	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+00:24.136	ID:1	Packet sent
+00:24.137	ID:1	INFO ack received
+00:24.138	ID:2	Message received from node 1 with type = 2
+00:24.139	ID:2	INFO message received
+00:24.141	ID:2	Position X: 7600, Y: 5117
+00:24.142	ID:2	Sensor status: 4
+00:24.142	ID:2	ALERT: FALLING!
+00:24.144	ID:2	Position: (X,Y) = (7600,5117)
+00:24.727	ID:3	Timer10s: timer fired
+00:24.732	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+00:24.736	ID:3	Packet sent
+00:24.737	ID:3	INFO ack received
+00:24.738	ID:4	Message received from node 3 with type = 2
+00:24.739	ID:4	INFO message received
+00:24.741	ID:4	Position X: 15200, Y: 10234
+00:24.742	ID:4	Sensor status: 3
+00:33.894	ID:1	Timer10s: timer fired
+00:33.898	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+00:33.914	ID:1	Packet sent
+00:33.915	ID:1	INFO ack not received
+00:33.919	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+00:33.932	ID:1	Packet sent
+00:33.933	ID:1	INFO ack not received
+00:33.938	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+00:33.947	ID:1	Packet sent
+00:33.948	ID:1	INFO ack not received
+00:34.493	ID:3	Timer10s: timer fired
+00:34.498	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+00:34.501	ID:3	Packet sent
+00:34.501	ID:3	INFO ack received
+00:34.503	ID:4	Message received from node 3 with type = 2
+00:34.503	ID:4	INFO message received
+00:34.506	ID:4	Position X: 25185, Y: -3754
+00:34.506	ID:4	Sensor status: 2
+00:43.660	ID:1	Timer10s: timer fired
+00:43.665	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+00:43.673	ID:1	Packet sent
+00:43.674	ID:1	INFO ack not received
+00:43.678	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+00:43.696	ID:1	Packet sent
+00:43.696	ID:1	INFO ack not received
+00:43.701	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+00:43.710	ID:1	Packet sent
+00:43.711	ID:1	INFO ack not received
+00:44.259	ID:3	Timer10s: timer fired
+00:44.263	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+00:44.270	ID:3	Packet sent
+00:44.271	ID:3	INFO ack received
+00:44.272	ID:4	Message received from node 3 with type = 2
+00:44.273	ID:4	INFO message received
+00:44.275	ID:4	Position X: 21196, Y: -8930
+00:44.276	ID:4	Sensor status: 1
+00:53.425	ID:1	Timer10s: timer fired
+00:53.430	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+00:53.446	ID:1	Packet sent
+00:53.447	ID:1	INFO ack not received
+00:53.451	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+00:53.468	ID:1	Packet sent
+00:53.469	ID:1	INFO ack not received
+00:53.473	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+00:53.487	ID:1	Packet sent
+00:53.488	ID:1	INFO ack not received
+00:54.024	ID:3	Timer10s: timer fired
+00:54.029	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+00:54.034	ID:3	Packet sent
+00:54.034	ID:3	INFO ack received
+00:54.035	ID:4	Message received from node 3 with type = 2
+00:54.036	ID:4	INFO message received
+00:54.038	ID:4	Position X: 3681, Y: 9552
+00:54.039	ID:4	Sensor status: 2
+01:03.191	ID:1	Timer10s: timer fired
+01:03.196	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+01:03.204	ID:1	Packet sent
+01:03.205	ID:1	INFO ack not received
+01:03.210	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+01:03.221	ID:1	Packet sent
+01:03.222	ID:1	INFO ack not received
+01:03.226	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+01:03.241	ID:1	Packet sent
+01:03.241	ID:1	INFO ack not received
+01:03.790	ID:3	Timer10s: timer fired
+01:03.794	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+01:03.803	ID:3	Packet sent
+01:03.804	ID:3	INFO ack received
+01:03.805	ID:4	Message received from node 3 with type = 2
+01:03.806	ID:4	INFO message received
+01:03.808	ID:4	Position X: 22710, Y: 11287
+01:03.809	ID:4	Sensor status: 2
+01:12.956	ID:1	Timer10s: timer fired
+01:12.962	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+01:12.971	ID:1	Packet sent
+01:12.972	ID:1	INFO ack not received
+01:12.977	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+01:12.986	ID:1	Packet sent
+01:12.987	ID:1	INFO ack not received
+01:12.991	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+01:13.003	ID:1	Packet sent
+01:13.004	ID:1	INFO ack not received
+01:13.556	ID:3	Timer10s: timer fired
+01:13.560	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+01:13.571	ID:3	Packet sent
+01:13.571	ID:3	INFO ack received
+01:13.573	ID:4	Message received from node 3 with type = 2
+01:13.573	ID:4	INFO message received
+01:13.575	ID:4	Position X: 1452, Y: 30554
+01:13.576	ID:4	Sensor status: 2
+01:22.722	ID:1	Timer10s: timer fired
+01:22.727	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+01:22.736	ID:2	Timer60s: timer fired
+01:22.737	ID:2	ALERT: MISSING
+01:22.739	ID:2	Last position (X,Y) = (7600,5117)
+01:22.741	ID:1	Packet sent
+01:22.742	ID:1	INFO ack not received
+01:22.747	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+01:22.758	ID:1	Packet sent
+01:22.758	ID:1	INFO ack not received
+01:22.763	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+01:22.779	ID:1	Packet sent
+01:22.780	ID:1	INFO ack not received
+01:23.321	ID:3	Timer10s: timer fired
+01:23.326	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+01:23.336	ID:3	Packet sent
+01:23.336	ID:3	INFO ack received
+01:23.337	ID:4	Message received from node 3 with type = 2
+01:23.338	ID:4	INFO message received
+01:23.340	ID:4	Position X: -28057, Y: -11701
+01:23.341	ID:4	Sensor status: 4
+01:23.342	ID:4	ALERT: FALLING!
+01:23.344	ID:4	Position: (X,Y) = (-28057,-11701)
+01:32.488	ID:1	Timer10s: timer fired
+01:32.493	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+01:32.502	ID:1	Packet sent
+01:32.503	ID:1	INFO ack not received
+01:32.508	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+01:32.516	ID:1	Packet sent
+01:32.517	ID:1	INFO ack not received
+01:32.521	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+01:32.533	ID:1	Packet sent
+01:32.534	ID:1	INFO ack not received
+01:33.087	ID:3	Timer10s: timer fired
+01:33.091	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+01:33.100	ID:3	Packet sent
+01:33.101	ID:3	INFO ack received
+01:33.102	ID:4	Message received from node 3 with type = 2
+01:33.103	ID:4	INFO message received
+01:33.105	ID:4	Position X: -18038, Y: 20741
+01:33.106	ID:4	Sensor status: 1
+01:42.253	ID:1	Timer10s: timer fired
+01:42.259	ID:1	Radio: sanding INFO packet to node 2, attempt: 1
+01:42.266	ID:1	Packet sent
+01:42.267	ID:1	INFO ack not received
+01:42.271	ID:1	Radio: sanding INFO packet to node 2, attempt: 2
+01:42.284	ID:1	Packet sent
+01:42.285	ID:1	INFO ack not received
+01:42.290	ID:1	Radio: sanding INFO packet to node 2, attempt: 3
+01:42.307	ID:1	Packet sent
+01:42.308	ID:1	INFO ack not received
+01:42.852	ID:3	Timer10s: timer fired
+01:42.857	ID:3	Radio: sanding INFO packet to node 4, attempt: 1
+01:42.866	ID:3	Packet sent
+01:42.866	ID:3	INFO ack received
+01:42.868	ID:4	Message received from node 3 with type = 2
+01:42.868	ID:4	INFO message received
+01:42.871	ID:4	Position X: 16527, Y: -21611
+01:42.872	ID:4	Sensor status: 2
